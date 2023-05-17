@@ -1,10 +1,16 @@
 # awsomedocker
+
 this is new awsomedocker project
 
-awsome-doecker is
+awsome-doecker is project for
 
-- fast commit
-- many kinds of docker project
+- quick commit
+- quick merge
+- quick push
+
+and for all docker lover.
+
+
 
 
 
