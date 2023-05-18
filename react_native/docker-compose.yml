@@ -1,0 +1,14 @@
+﻿version: "3"
+
+services:
+  react_native:
+    build: ./code
+    container_name: react_native
+    volumes:
+      - ./code/:/code
+    env_file: .env
+    ports:
+      - "19000:19000"
+      - "19001:19001"
+      - "19002:19002"
+      - "19006:19006"
