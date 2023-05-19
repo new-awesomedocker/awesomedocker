@@ -1,0 +1,10 @@
+﻿version: '3'
+services:
+  lisp_sh:
+    container_name: lisp_sh
+    build: ./code
+    volumes:
+      - ./code:/code
+
+ 
+
