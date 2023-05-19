@@ -1,16 +1,27 @@
 ﻿
 
+## how to run common lisp
+
+common lisp container is easy.
+
+just run below command.
+
 ```sh
-git clone https://github.com/kawadasatoshi/cl.git
-cd cl
+git clone https://github.com/awsomedocker/commonlisp.git
+cd awsomedocker/commonlisp
 docker-compose build
-docker-compose run --rm lisp_sh bash
+docker-compose run --rm lisp_sh sbcl
 ```
 
-作成したコンテナの中で次のコマンドを打つ
+and run lisp script in the container.
+
 
 ```sh
 (load "hoge.lisp")
 ```
+
+Done.
+
+
 
 
