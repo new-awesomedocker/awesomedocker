@@ -16,9 +16,22 @@ and see http://localhost
 
 ## webAPP
 
-### React
+### React Native
 
-https://docker.hatenablog.jp/entry/2023/05/18/213054
+```sh
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/react_native
+docker-compose build
+docker-compose run react_native bash
+```
+
+In container.
+
+```sh
+expo init testapp
+cd testapp
+npx expo start --tunnel
+```
 
 
 ### flask
