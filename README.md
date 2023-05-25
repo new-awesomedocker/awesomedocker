@@ -6,9 +6,9 @@
 
 
 
-# awsomedocker
+# new-awesomedocker
 
-this is new awsomedocker project
+this is new awesomedocker project
 
 awsome-doecker is project for
 

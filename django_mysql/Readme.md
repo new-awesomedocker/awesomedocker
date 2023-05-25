@@ -19,7 +19,7 @@
 本リポジトリのソースコードをダウンロードします。
 
 ```sh
-git clone https://github.com/awesomedocker/awesomedocker.git
+git clone https://github.com/new-awesomedocker/awesomedocker.git
 ```
 
 
@@ -159,7 +159,7 @@ mysqlのコンテナは環境変数にデータベースの情報を書き込む
 djangoディレクトリにcdコマンドで移動します。
 
 ```sh
-cd awesomedocker/django_mysql/
+cd awesome-docker/django_mysql/
 ```
 
 

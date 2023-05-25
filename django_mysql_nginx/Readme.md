@@ -159,7 +159,7 @@ mysqlのコンテナは環境変数にデータベースの情報を書き込む
 djangoディレクトリにcdコマンドで移動します。
 
 ```sh
-cd awesomedocker/django_mysql/
+cd new-awesomedocker/django_mysql/
 ```
 
 

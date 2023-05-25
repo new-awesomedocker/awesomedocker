@@ -8,7 +8,7 @@
 本リポジトリのソースコードをダウンロードします。
 
 ```sh
-git clone https://github.com/awesomedocker/awesomedocker.git
+git clone https://github.com/new-awesomedocker/awesomedocker.git
 ```
 
 
@@ -17,7 +17,7 @@ git clone https://github.com/awesomedocker/awesomedocker.git
 pythonconsoleディレクトリにcdコマンドで移動します。
 
 ```sh
-cd awesomedocker/pythonconsole/
+cd new-awesomedocker/pythonconsole/
 ```
 
 
