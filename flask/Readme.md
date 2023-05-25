@@ -1,5 +1,29 @@
 
 
+
+```sh
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/flask/
+docker image build -t flask .
+docker run -it -p 80:80 -v ./code:/code flask bash
+```
+
+`python main.py`
+
+
+ブラウザから http://localhost/
+
+にアクセスしてみてください。
+    
+
+
+
+
+
+
+
+
+
 ## commands:コマンド入力
 
 

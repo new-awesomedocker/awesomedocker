@@ -1,5 +1,16 @@
 
 
+```sh
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/django/
+docker image build -t django .
+docker run -it -p 80:80 -v ./code:/code django bash
+```
+
+and `python mysite/manage.py runserver 0.0.0.0:80`
+
+access to http://localhost/
+
 ## commands:コマンド入力
 
 
