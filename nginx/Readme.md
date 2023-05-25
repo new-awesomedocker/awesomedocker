@@ -3,7 +3,7 @@
 ## ソースコード入手
 
 ```sh
-git clone https://github.com/kawadasatoshi/DockerImages.git
+git clone https://github.com/new-awesomedocker/DockerImages.git
 ```
 
 

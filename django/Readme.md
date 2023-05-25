@@ -8,7 +8,7 @@
 本リポジトリのソースコードをダウンロードします。
 
 ```sh
-git clone https://github.com/kawadasatoshi/PythonImages.git
+git clone https://github.com/new-awesomedocker/awesomedocker.git
 ```
 
 
@@ -17,7 +17,7 @@ git clone https://github.com/kawadasatoshi/PythonImages.git
 djangoディレクトリにcdコマンドで移動します。
 
 ```sh
-cd PythonImages/django/
+cd new-awesomedocker/django/
 ```
 
 
