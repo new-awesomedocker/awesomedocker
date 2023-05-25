@@ -1,6 +1,15 @@
 
+```sh
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/pythonconsole/
+docker image build -t pythonconsole .
+docker run -it -v ./code:/code pythonconsole bash
+```
+
+
 
 ## commands:コマンド入力
+
 
 
 1. clone this repo

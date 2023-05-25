@@ -28,8 +28,8 @@ from https://github.com/support-project/docker-knowledge
 以下のソースコードをペーストしましょう。
 
 ```sh
-git clone https://github.com/minegishirei/docker-knowledge.git
-cd docker-knowledge
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/knowledge
 docker-compose up
 ```
 

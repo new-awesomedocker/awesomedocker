@@ -1,5 +1,19 @@
 ﻿
 
+```sh
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/react_native
+docker-compose build
+docker-compose run react_native bash
+```
+
+```sh
+expo init testapp
+cd testapp
+npx expo start --tunnel
+```
+
+
 ## download src
 
 

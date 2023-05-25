@@ -7,8 +7,8 @@ common lisp container is easy.
 just run below command.
 
 ```sh
-git clone https://github.com/new-awesomedocker/commonlisp.git
-cd new-awesomedocker/commonlisp
+git clone https://github.com/new-awesomedocker/awesomedocker.git
+cd awesomedocker/commonlisp
 docker-compose build
 docker-compose run --rm lisp_sh sbcl
 ```
