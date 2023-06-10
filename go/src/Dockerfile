@@ -7,4 +7,5 @@ WORKDIR /go/src/
 RUN go get golang.org/x/tools/cmd/godoc
 ENV GOROOT=/go/
 RUN apk add git
+RUN git clone https://github.com/minegishirei/explainable_moby.git
 CMD godoc -http 0.0.0.0:6060
