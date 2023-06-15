@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  go:
+    build: ./src
+    container_name: go
+    ports:
+      - "6060:6060"
+    volumes:
+      - ./src:/go/src/
+    tty: true #コンテナ常時起動
