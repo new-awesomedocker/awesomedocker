@@ -1,12 +1,12 @@
 ﻿version: "3"
 
 services:
-  react_native:
+  react-app:
     build: ./code
-    container_name: react_native
+    container_name: react-app
+    command: sh -c "cd react-sample && npm start"
     volumes:
       - ./code/:/code
-    env_file: .env
     ports:
       - '3000:3000'
       - "19000:19000"
